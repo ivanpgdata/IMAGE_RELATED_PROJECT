@@ -1,6 +1,6 @@
 ## Simple Object Recognition using YOLOv5
 
-This practice was made out of curiosity as I read in a ML blog about **YOLOv5** and I decided to give it a try. It has a simple function that recognizes the objects in a picture and it returns the pictur with the bounding boxes and the name of the objects. Here you have a couple of examples:
+This practice arose from my curiosity after reading about YOLOv5 in a machine learning blog, so I decided to give it a try. It features a simple function that identifies objects in a picture and returns the image with bounding boxes and the names of the objects. Here are a couple of examples:
 
 
 <div style="display: flex;">
