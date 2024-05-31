@@ -5,22 +5,21 @@ This practice was made out of curiosity as I read in a ML blog about **YOLOv5** 
 
 <div style="display: flex;">
     <div style="flex: 1;">
-        <img src="https://github.com/ivanpgdata/Exercises/blob/main/Object_Recog_ML/images/image3.jpg?raw=true?raw=true?raw=true" style="max-width: 100%;">
+        <img src="https://github.com/ivanpgdata/Image_Related/blob/main/Simple_Object_Recog_ML/images/image2.jpg?raw=true" style="max-width: 100%;">
     </div;">
     
 <div style="display: flex;">
     <div style="flex: 1;">
-        <img src="https://github.com/ivanpgdata/Exercises/blob/main/Object_Recog_ML/images/image3_processed.jpg
-?raw=true?raw=true?raw=true" style="max-width: 100%;">
+        <img src="https://github.com/ivanpgdata/Image_Related/blob/main/Simple_Object_Recog_ML/images/image2_processed.jpg?raw=true" style="max-width: 100%;">
     </div;">
 
 
 
 <div style="display: flex;">
     <div style="flex: 1;">
-        <img src="https://github.com/ivanpgdata/Exercises/blob/main/Object_Recog_ML/images/image2.jpg?raw=true" style="max-width: 100%;">
+        <img src="https://github.com/ivanpgdata/Image_Related/blob/main/Simple_Object_Recog_ML/images/image3.jpg?raw=true" style="max-width: 100%;">
     </div;">
 <div style="display: flex;">
     <div style="flex: 1;">
-        <img src="https://github.com/ivanpgdata/Exercises/blob/main/Object_Recog_ML/images/image2_processed.jpg?raw=true?raw=true" style="max-width: 100%;">
+        <img src="https://github.com/ivanpgdata/Image_Related/blob/main/Simple_Object_Recog_ML/images/image3_processed.jpg?raw=true" style="max-width: 100%;">
     </div;">
