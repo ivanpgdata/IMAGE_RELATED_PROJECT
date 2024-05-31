@@ -1,6 +1,6 @@
 # About this repository
 
-I will mainly upload here all the projects and exercises image related. Depending on the algorithm and the oackages that I will use, I may not upload the whole content as Github has a 25Mb limit for the uploads. However, feel free to [contact me] (https://www.linkedin.com/in/ivanpgdata) if you have any question about my projects.
+I will mainly upload here all the projects and exercises image related. Depending on the algorithm and the oackages that I will use, I may not upload the whole content as Github has a 25Mb limit for the uploads. However, feel free to [contact me](https://www.linkedin.com/in/ivanpgdata) if you have any question about my projects.
 
 ## Simple Object Recognition using YOLOv5
 
