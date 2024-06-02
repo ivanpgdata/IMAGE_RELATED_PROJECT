@@ -17,13 +17,3 @@ This practice arose from my curiosity after reading about YOLOv5 in a machine le
         <img src="https://github.com/ivanpgdata/Image_Related/blob/main/Simple_Object_Recog_ML/images/image2_processed.jpg?raw=true" style="max-width: 100%;">
     </div;">
 
-
-
-<div style="display: flex;">
-    <div style="flex: 1;">
-        <img src="https://github.com/ivanpgdata/Image_Related/blob/main/Simple_Object_Recog_ML/images/image3.jpg?raw=true" style="max-width: 100%;">
-    </div;">
-<div style="display: flex;">
-    <div style="flex: 1;">
-        <img src="https://github.com/ivanpgdata/Image_Related/blob/main/Simple_Object_Recog_ML/images/image3_processed.jpg?raw=true" style="max-width: 100%;">
-    </div;">
